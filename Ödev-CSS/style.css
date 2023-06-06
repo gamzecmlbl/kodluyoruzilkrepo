@@ -1,0 +1,15 @@
+.topnav a {
+    float: inherit;
+    color: brown;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+body {
+  color: black;
+}
+h1,h2,h3,h4 {
+  color: rgb(213, 145, 34)
+
+}
